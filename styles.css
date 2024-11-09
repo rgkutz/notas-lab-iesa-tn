@@ -156,7 +156,7 @@ h1 {
     flex-direction: column;
     position: absolute;
     top: 70px;
-    left: 0;
+    right: 0;
     width: 100%;
     background: #121212;
   }
